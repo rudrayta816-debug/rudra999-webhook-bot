@@ -7,7 +7,7 @@ app.use(express.json());
 // =====================
 // TELEGRAM DETAILS
 // =====================
-const BOT_TOKEN = process.env.BOT_TOKEN || "PASTE_YOUR_TELEGRAM_BOT_TOKEN";
+const BOT_TOKEN = process.env.BOT_TOKEN || "8490506099:AAHWUbLx4nnBMA6qxVPN5hLSSYkoyYkjOy8";
 const CHAT_ID = process.env.CHAT_ID || "8510857689";
 
 // =====================
